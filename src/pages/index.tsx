@@ -4,8 +4,8 @@ import Button from '@mui/material/Button'
 import { useTheme } from '@mui/material'
 
 export default function Home() {
-    const theme = useTheme()
-    console.log('theme', {...theme})
+  const theme = useTheme()
+  console.log('theme', { ...theme })
   return (
     <>
       <Head>
