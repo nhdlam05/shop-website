@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc6c3a93-8af8-4d55-8e4b-34fa801f8ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/text-field/TextInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +22,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="Git.Stage.Ui.Settings">
-    <option name="ignoredFilesShown" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/login&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/tonnie05/Desktop/study/my-project/ecommerce-nextjs/shop-website&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -52,7 +50,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -100,6 +98,17 @@
       <workItem from="1711637900721" duration="2839000" />
       <workItem from="1711809946657" duration="4759000" />
       <workItem from="1711876470474" duration="2507000" />
+      <workItem from="1711882279406" duration="445000" />
+      <workItem from="1711882731769" duration="102000" />
+      <workItem from="1711883105774" duration="126000" />
+      <workItem from="1711883300816" duration="50000" />
+      <workItem from="1711902100341" duration="3719000" />
+      <workItem from="1711959952112" duration="1262000" />
+      <workItem from="1712074866741" duration="40000" />
+      <workItem from="1712161654962" duration="1575000" />
+      <workItem from="1712288055368" duration="149000" />
+      <workItem from="1712289109954" duration="687000" />
+      <workItem from="1712411798296" duration="8641000" />
     </task>
     <servers />
   </component>
@@ -116,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
